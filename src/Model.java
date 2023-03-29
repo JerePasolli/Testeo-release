@@ -75,6 +75,10 @@ public class Model extends JPanel implements ActionListener {
         heart = new ImageIcon("../assets/images/heart.gif").getImage();
 
     }
+
+        public funcionnuevba(){
+            lasijfdlasjdlaks;
+        }
        private void initVariables() {
 
         screenData = new short[N_BLOCKS * N_BLOCKS];
